@@ -39,32 +39,31 @@ Data preprocessing was critical to ensure accuracy and reliability:
 
 ### Clustering and Geographic Analysis
 To identify regional patterns in restaurant performance, the following clustering techniques were applied:
-
-- K-Means Clustering to group businesses by average star ratings, review counts, latitude, and longitude.
-- DBSCAN to detect density-based patterns and outliers.
+- **K-Means Clustering** to group businesses by average star ratings, review counts, latitude, and longitude.
+- **DBSCAN** to detect density-based patterns and outliers.
 
 ### Sentiment Analysis
-The VADER (Valence Aware Dictionary and sEntiment Reasoner) tool was used to classify sentiments in Yelp reviews:
+The **VADER** (Valence Aware Dictionary and sEntiment Reasoner) tool was used to classify sentiments in Yelp reviews:
 
-- Positive sentiment: VADER scores > 0.05
-- Neutral sentiment: VADER scores between -0.05 and 0.05
-- Negative sentiment: VADER scores < -0.05
+- **Positive** sentiment: VADER scores > 0.05
+- **Neutral** sentiment: VADER scores between -0.05 and 0.05
+- **Negative** sentiment: VADER scores < -0.05
 Sentiment scores were analyzed to uncover regional and categorical trends.
 
 ## Results
 ### Key Insights
 High-Performing Clusters:
-- Cluster 2 (Northern Mississippi/Alabama): Average Rating: 4.13
-- Cluster 4 (Las Vegas, NV): Average Rating: 3.65
+- **Cluster 2** (Northern Mississippi/Alabama): Average Rating: 4.13
+- **Cluster 4** (Las Vegas, NV): Average Rating: 3.65
   
 Geographic Trends:
-- Urban areas displayed more balanced sentiment distributions.
-- Rural areas exhibited sentiment extremes.
+- **Urban** areas displayed more balanced sentiment distributions.
+- **Rura**l areas exhibited sentiment extremes.
 
 Category-Specific Findings:
-- Breakfast & Brunch: Temporal sentiment variations were observed, with weekends showing higher positivity.
-- Pizza: Most consistent sentiment correlations across all regions.
-- Specialty Food: High variability in sentiment, reflecting niche customer expectations.
+- **Breakfast & Brunch**: Temporal sentiment variations were observed, with weekends showing higher positivity.
+- **Pizza**: Most consistent sentiment correlations across all regions.
+- **Specialty Food**: High variability in sentiment, reflecting niche customer expectations.
 
 ### Visualizations
 - Sentiment distributions for high- and low-performing businesses
@@ -83,15 +82,17 @@ Category-Specific Findings:
 - Explore additional dining categories for a deeper understanding of customer preferences.
 
 ## Authors
-Wanjing (Anna) Yan
+**Wanjing (Anna) Yan**
 - Master's Student, Big Data Analytics, San Diego State University
 - Email: wyan4786@sdsu.edu
+- LinkedIn: https://www.linkedin.com/in/wanjing-anna-yan-102810208
 
-Maedeh Rahimi
+**Maedeh Rahimi**
 - Master's Student, Hydrology, San Diego State University
 - Email: mrahimimashkel1705@sdsu.edu
+- LinkedIn: https://www.linkedin.com/in/maedehrahimi/
 
-Nadjim Noori
+**Nadjim Noori**
 - Master's Student, Information Processing, University of Cologne
 - Email: nnoori7150@sdsu.edu
   
