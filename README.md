@@ -1,5 +1,5 @@
 # Yelp Restaurant Sentiment Analysis and Geographic Trends
-This project explores customer sentiment and geographic trends in Yelp reviews across three distinct restaurant categories: Breakfast & Brunch, Pizza, and Specialty Food. By leveraging the Yelp dataset, this study investigates how geographic location impacts restaurant performance and customer satisfaction.
+This project explores **customer sentiment** and **geographic trends** in Yelp reviews across three distinct restaurant categories: Breakfast & Brunch, Pizza, and Specialty Food. By leveraging the Yelp dataset, this study investigates how geographic location impacts restaurant performance and customer satisfaction.
 
 ## Table of Contents
 ## Overview
@@ -14,12 +14,12 @@ Using advanced data analysis techniques, this study identifies trends in restaur
 ## Technologies
 This project utilizes the following technologies:
 
-- Python for data analysis and visualization
-- Pandas and NumPy for data processing
-- GeoPandas and SEDAC for geospatial analysis
-- VADER for sentiment analysis
-- DBSCAN and K-Means Clustering for pattern identification
-- Matplotlib and Seaborn for visualization
+- **Python** for data analysis and visualization
+- **Pandas** and **NumPy** for data processing
+- **GeoPandas** and **SEDAC** for geospatial analysis
+- **VADER** for sentiment analysis
+- **DBSCAN** and **K-Means Clustering** for pattern identification
+- **Matplotlib** and **Seaborn** for visualization
 
 ## Methodology
 ### Data Acquisition
