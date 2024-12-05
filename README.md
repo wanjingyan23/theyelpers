@@ -5,9 +5,9 @@ This project explores **customer sentiment** and **geographic trends** in Yelp r
 ## Overview
 Yelp has transformed how customers evaluate dining options, providing a robust dataset to analyze restaurant performance and customer preferences. This project focuses on three restaurant categories:
 
-- Breakfast & Brunch: Known for its time-sensitive appeal and social dining experiences.
-- Pizza: A highly competitive and universally loved category.
-- Specialty Food: Reflecting trends in health-conscious dining, such as vegan and gluten-free options.
+- **Breakfast & Brunch**: Known for its time-sensitive appeal and social dining experiences.
+- **Pizza**: A highly competitive and universally loved category.
+- **Specialty Food**: Reflecting trends in health-conscious dining, such as vegan and gluten-free options.
   
 Using advanced data analysis techniques, this study identifies trends in restaurant performance and customer satisfaction across major metropolitan areas in the United States and Canada.
 
