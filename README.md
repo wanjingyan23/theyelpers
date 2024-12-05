@@ -96,5 +96,11 @@ Nadjim Noori
 - Email: nnoori7150@sdsu.edu
   
 ## References
-Hutto, C., & Gilbert, E. (2014). VADER: A parsimonious rule-based model for sentiment analysis of social media text. Proceedings of the AAAI Conference on Web and Social Media, 8(1), 216-225.
-Yelp Dataset Kaggle
+- Asghar, N. (2016). Yelp dataset challenge: Review rating prediction. arXiv preprint arXiv:1605.05362.
+- Carbon, K., Fujii, K., & Veerina, P. (2014). Applications of Machine Learning to Predict Yelp Ratings. Stanford University.
+- Hutto, C., & Gilbert, E. (2014, May). Vader: A parsimonious rule-based model for sentiment analysis of social media text. In Proceedings of the international AAAI conference on web and social media (Vol. 8, No. 1, pp. 216-225).
+- Kharde, V., & Sonawane, P. (2016). Sentiment analysis of Twitter data: a survey of techniques. arXiv preprint arXiv:1601.06971.
+- Singh, M., Jakhar, A. K., & Pandey, S. (2021). Sentiment analysis on the impact of coronavirus in social life using the BERT model. Social Network Analysis and Mining, 11(1), 33.
+- Talaat, A. S. (2023). Sentiment analysis classification system using hybrid BERT models. Journal of Big Data, 10(1), 110.
+- Yelp Inc. (2024). Yelp dataset (Version 1) [Data set]. Kaggle. https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset
+
