@@ -62,9 +62,9 @@ Geographic Trends:
 - Rural areas exhibited sentiment extremes.
 
 Category-Specific Findings:
-#### Breakfast & Brunch: Temporal sentiment variations were observed, with weekends showing higher positivity.
-#### Pizza: Most consistent sentiment correlations across all regions.
-#### Specialty Food: High variability in sentiment, reflecting niche customer expectations.
+- Breakfast & Brunch: Temporal sentiment variations were observed, with weekends showing higher positivity.
+- Pizza: Most consistent sentiment correlations across all regions.
+- Specialty Food: High variability in sentiment, reflecting niche customer expectations.
 
 ### Visualizations
 - Sentiment distributions for high- and low-performing businesses
